@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.0",
-    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.0.0/CleanRoomPrintBridgeSetup-1.0.0.exe",
-    "notes":  "Initial CleanRoom Print Bridge: prints label PDFs from the browser to the local Windows printer (loopback :8732)."
+    "version":  "1.1.0",
+    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.1.0/CleanRoomPrintBridgeSetup-1.1.0.exe",
+    "notes":  "Runs in the user\u0027s Windows session (auto-start at login) instead of a session-0 service, so PDFtoPrinter can access the user\u0027s printers. Removes the old CleanRoomPrintBridge service on install."
 }
