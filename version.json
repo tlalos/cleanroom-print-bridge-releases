@@ -1,5 +1,5 @@
 {
-    "version":  "1.1.1",
-    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.1.1/CleanRoomPrintBridgeSetup-1.1.1.exe",
-    "notes":  "Installer also stops a hung PDFtoPrinter.exe before extracting, so Install/Update no longer fails with a file-in-use error."
+    "version":  "1.1.2",
+    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.1.2/CleanRoomPrintBridgeSetup-1.1.2.exe",
+    "notes":  "Prints labels at the PDF\u0027s exact page size (custom paper, zero margins) so they print 1:1 from the app without configuring the printer; falls back to PDFtoPrinter if the driver rejects the custom size."
 }
