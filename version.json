@@ -1,5 +1,5 @@
 {
-    "version":  "1.1.3",
-    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.1.3/CleanRoomPrintBridgeSetup-1.1.3.exe",
-    "notes":  "Use the printer\u0027s own configured stock when it matches the label (e.g. a Zebra set to 70x35) and match the media orientation, instead of forcing a custom paper size that some label drivers re-orient/clip. Falls back to a custom size only for unrelated defaults (A4)."
+    "version":  "1.1.4",
+    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.1.4/CleanRoomPrintBridgeSetup-1.1.4.exe",
+    "notes":  "Print the label exactly as the PDF defines it (fit-to-media, centered, no auto-rotate) so the designer\u0027s Rotation actually controls orientation."
 }
