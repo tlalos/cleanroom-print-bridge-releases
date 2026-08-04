@@ -1,5 +1,5 @@
 {
-    "version":  "1.1.4",
-    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.1.4/CleanRoomPrintBridgeSetup-1.1.4.exe",
-    "notes":  "Print the label exactly as the PDF defines it (fit-to-media, centered, no auto-rotate) so the designer\u0027s Rotation actually controls orientation."
+    "version":  "1.2.0",
+    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.2.0/CleanRoomPrintBridgeSetup-1.2.0.exe",
+    "notes":  "Vector (FastReport-style) label printing: draws the label 1:1 at exact size for consistent output across PCs; adds the printLabel capability (web falls back to PDF for older bridges)."
 }
