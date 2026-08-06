@@ -1,5 +1,5 @@
 {
-    "version":  "1.2.4",
-    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.2.4/CleanRoomPrintBridgeSetup-1.2.4.exe",
-    "notes":  "Diagnostic build: logs each print (rotation, paper, timings) to %LOCALAPPDATA%\\CleanRoom\\printbridge.log to trace the intermittent 180-degree flip. No behaviour change."
+    "version":  "1.2.5",
+    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.2.5/CleanRoomPrintBridgeSetup-1.2.5.exe",
+    "notes":  "Raises print timeout so a slow print (printer waking) completes instead of being cut off mid-job, which was leaving the next label rotated 180. Keeps the diagnostic log."
 }
