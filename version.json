@@ -1,5 +1,5 @@
 {
-    "version":  "1.2.6",
-    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.2.6/CleanRoomPrintBridgeSetup-1.2.6.exe",
-    "notes":  "Log trimmed to errors only (timeouts/failures); successful prints are no longer logged. No behaviour change."
+    "version":  "1.2.7",
+    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.2.7/CleanRoomPrintBridgeSetup-1.2.7.exe",
+    "notes":  "Rotation now comes from the label design (saved, shared across workstations) instead of a per-PC setting. Reads rotation from the label; no behaviour change for a correctly-set label."
 }
