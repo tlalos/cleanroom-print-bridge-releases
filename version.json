@@ -1,5 +1,5 @@
 {
-    "version":  "1.2.5",
-    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.2.5/CleanRoomPrintBridgeSetup-1.2.5.exe",
-    "notes":  "Raises print timeout so a slow print (printer waking) completes instead of being cut off mid-job, which was leaving the next label rotated 180. Keeps the diagnostic log."
+    "version":  "1.2.6",
+    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.2.6/CleanRoomPrintBridgeSetup-1.2.6.exe",
+    "notes":  "Log trimmed to errors only (timeouts/failures); successful prints are no longer logged. No behaviour change."
 }
