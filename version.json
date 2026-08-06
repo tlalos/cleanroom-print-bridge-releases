@@ -1,5 +1,5 @@
 {
-    "version":  "1.2.2",
-    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.2.2/CleanRoomPrintBridgeSetup-1.2.2.exe",
-    "notes":  "Reliability fix: label printing runs on an STA thread with a watchdog, so a stuck printer driver no longer freezes the bridge (returns an error instead)."
+    "version":  "1.2.3",
+    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.2.3/CleanRoomPrintBridgeSetup-1.2.3.exe",
+    "notes":  "Fixes rapid double-click timeout: print jobs are serialized so a second print waits for the first instead of colliding with the driver."
 }
