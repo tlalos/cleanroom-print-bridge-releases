@@ -1,5 +1,5 @@
 {
-    "version":  "1.2.1",
-    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.2.1/CleanRoomPrintBridgeSetup-1.2.1.exe",
-    "notes":  "Per-workstation label print rotation (0/90/180/270), set in Sampling Process -\u003e Printer settings or the Label Designer; turns the whole label at print time to match the printer feed."
+    "version":  "1.2.2",
+    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.2.2/CleanRoomPrintBridgeSetup-1.2.2.exe",
+    "notes":  "Reliability fix: label printing runs on an STA thread with a watchdog, so a stuck printer driver no longer freezes the bridge (returns an error instead)."
 }
