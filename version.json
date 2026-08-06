@@ -1,5 +1,5 @@
 {
-    "version":  "1.2.3",
-    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.2.3/CleanRoomPrintBridgeSetup-1.2.3.exe",
-    "notes":  "Fixes rapid double-click timeout: print jobs are serialized so a second print waits for the first instead of colliding with the driver."
+    "version":  "1.2.4",
+    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.2.4/CleanRoomPrintBridgeSetup-1.2.4.exe",
+    "notes":  "Diagnostic build: logs each print (rotation, paper, timings) to %LOCALAPPDATA%\\CleanRoom\\printbridge.log to trace the intermittent 180-degree flip. No behaviour change."
 }
