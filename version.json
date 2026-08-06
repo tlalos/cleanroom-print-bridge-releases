@@ -1,5 +1,5 @@
 {
-    "version":  "1.2.0",
-    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.2.0/CleanRoomPrintBridgeSetup-1.2.0.exe",
-    "notes":  "Vector (FastReport-style) label printing: draws the label 1:1 at exact size for consistent output across PCs; adds the printLabel capability (web falls back to PDF for older bridges)."
+    "version":  "1.2.1",
+    "url":  "https://github.com/tlalos/cleanroom-print-bridge-releases/releases/download/v1.2.1/CleanRoomPrintBridgeSetup-1.2.1.exe",
+    "notes":  "Per-workstation label print rotation (0/90/180/270), set in Sampling Process -\u003e Printer settings or the Label Designer; turns the whole label at print time to match the printer feed."
 }
